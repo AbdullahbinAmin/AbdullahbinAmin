@@ -1,3 +1,4 @@
+![logo](https://github.com/AbdullahbinAmin/AbdullahbinAmin/blob/main/1725377001981.jpeg)
 <h1 align="center">Hi 👋, I'm Abdullah bin Amin</h1>
 <h3 align="center">A passionate DevOps and SysOps Admin from Pakistan</h3>
 

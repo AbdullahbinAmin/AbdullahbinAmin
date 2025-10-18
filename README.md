@@ -71,34 +71,6 @@ Improving cloud automation workflows using **Jenkins, Docker, Ansible, Terraform
 
 ---
 
-### 🏗️ Featured Projects
-
-- **End-to-End CI/CD for Microservices**  
-  Built and deployed a 3-tier microservices app using **Azure Pipelines + AKS + ArgoCD**.  
-  Tech: Docker, Kubernetes, Redis, MySQL, Azure DevOps  
-
-- **Jenkins CI/CD for Dockerized 2048 Game**  
-  Automated build, test, and deployment using Jenkins + GitHub Webhooks.
-
-- **Terraform IaC for AWS**  
-  Provisioned AWS resources (EC2, IAM, VPC) using Terraform and CloudFormation.
-
-- **Chattingo CI/CD Pipeline**  
-  Designed CI/CD pipeline with Jenkins & Docker, integrated GitHub Actions for quality checks.
-
-- **Jenkins Remote Execution & Automation**  
-  Integrated Jenkins + GitHub to execute Python scripts remotely and automate task scheduling.
-
----
-
-### 🎓 Education & Certifications
-- 🎓 **Diploma in AIOps (DevOps & Cloud Engineering)** — *Al-Nafi International College, London (2025)*  
-- 🎓 **B.Sc. Electrical Engineering (Computer Science)** — *UET Lahore (2022)*  
-- 🏅 *KodeKloud Engineer (Linux Level 1)*  
-- 🏆 *Planned: AWS Solutions Architect | CKA | Terraform Associate*
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">

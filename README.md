@@ -1,23 +1,130 @@
-![logo](https://github.com/AbdullahbinAmin/AbdullahbinAmin/blob/main/1725377001981.jpeg)
-<h1 align="center">Hi 👋, I'm Abdullah bin Amin</h1>
-<h3 align="center">A passionate DevOps and SysOps Admin from Pakistan</h3>
+<!-- Profile Banner -->
+![banner](https://github.com/AbdullahbinAmin/AbdullahbinAmin/blob/main/1725377001981.jpeg)
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
+<h1 align="center">👋 Hi, I'm Abdullah bin Amin</h1>
+<h3 align="center">🚀 DevOps & Cloud Engineer | AWS | Jenkins | Docker | Kubernetes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahbinamin&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahbinamin" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdullahbinamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullahbinamin" height="30" width="40" /></a>
-<a href="https://fb.com/abdullahbinamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullahbinamin" height="30" width="40" /></a>
-<a href="https://instagram.com/abdullah_bin_amin_8884" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdullah_bin_amin_8884" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahbinamin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AbdullahbinAmin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:abdullahbinaminmeo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahbinamin&show_icons=true&locale=en&layout=compact" alt="abdullahbinamin" /></p>
+### 👨‍💻 About Me
+I’m a **DevOps & Cloud Engineer** from Pakistan, passionate about automation, scalable deployments, and cloud-native infrastructure.  
+I specialize in **CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC)**.  
+Currently mentoring students and building real-world DevOps environments to enhance learning through hands-on projects.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahbinamin&show_icons=true&locale=en" alt="abdullahbinamin" /></p>
+💡 **Current Focus:**  
+Improving cloud automation workflows using **Jenkins, Docker, Ansible, Terraform, and AWS**.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahbinamin&" alt="abdullahbinamin" /></p>
+---
+
+### 🧠 Tech Stack & Tools
+
+#### ☁️ Cloud & Platforms
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
+</p>
+
+#### ⚙️ DevOps & CI/CD
+<p>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
+</p>
+
+#### 🧩 Programming & Scripting
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
+</p>
+
+#### 🖥️ Monitoring & Visualization
+<p>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/>
+</p>
+
+#### 🐧 Operating Systems
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🏗️ Featured Projects
+
+- **End-to-End CI/CD for Microservices**  
+  Built and deployed a 3-tier microservices app using **Azure Pipelines + AKS + ArgoCD**.  
+  Tech: Docker, Kubernetes, Redis, MySQL, Azure DevOps  
+
+- **Jenkins CI/CD for Dockerized 2048 Game**  
+  Automated build, test, and deployment using Jenkins + GitHub Webhooks.
+
+- **Terraform IaC for AWS**  
+  Provisioned AWS resources (EC2, IAM, VPC) using Terraform and CloudFormation.
+
+- **Chattingo CI/CD Pipeline**  
+  Designed CI/CD pipeline with Jenkins & Docker, integrated GitHub Actions for quality checks.
+
+- **Jenkins Remote Execution & Automation**  
+  Integrated Jenkins + GitHub to execute Python scripts remotely and automate task scheduling.
+
+---
+
+### 🎓 Education & Certifications
+- 🎓 **Diploma in AIOps (DevOps & Cloud Engineering)** — *Al-Nafi International College, London (2025)*  
+- 🎓 **B.Sc. Electrical Engineering (Computer Science)** — *UET Lahore (2022)*  
+- 🏅 *KodeKloud Engineer (Linux Level 1)*  
+- 🏆 *Planned: AWS Solutions Architect | CKA | Terraform Associate*
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahbinAmin&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahbinAmin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahbinAmin&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/abdullahbinamin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:abdullahbinaminmeo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/AbdullahbinAmin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ **“Building reliable systems through automation, innovation, and continuous learning.”**

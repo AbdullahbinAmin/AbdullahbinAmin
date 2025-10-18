@@ -2,7 +2,7 @@
 ![banner](https://github.com/AbdullahbinAmin/AbdullahbinAmin/blob/main/1725377001981.jpeg)
 
 <h1 align="center">👋 Hi, I'm Abdullah bin Amin</h1>
-<h3 align="center">🚀 DevOps & Cloud Engineer | AWS | Jenkins | Docker | Kubernetes</h3>
+<h3 align="center">DevOps & Cloud Engineer | AWS | Jenkins | Docker | Kubernetes</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdullahbinamin" target="_blank">
@@ -34,7 +34,6 @@ Improving cloud automation workflows using **Jenkins, Docker, Ansible, Terraform
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
 </p>
 
 #### ⚙️ DevOps & CI/CD
@@ -52,7 +51,6 @@ Improving cloud automation workflows using **Jenkins, Docker, Ansible, Terraform
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>
 </p>
 
 #### 🖥️ Monitoring & Visualization

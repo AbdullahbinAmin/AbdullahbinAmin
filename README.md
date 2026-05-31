@@ -43,28 +43,24 @@
 
 ---
 
-### 🛠️ Professional Experience Pipeline
+### 🛠️ Production Experience Pipeline
 
 ```text
-[Pipeline] ── Stage: Experience
+[Pipeline] ── Stage: Production Experience
    │
-   ├── 🟢 DevOps Engineer @ Fusion Cortex (Lahore, PK) ────────────────────── [ACTIVE: May 2025 - Present]
-   │    ├── Architected end-to-end CI/CD pipelines (GitHub Actions, GitLab CI/CD, Jenkins) across multiple environments.
-   │    ├── Managed and scaled AWS infrastructure (EC2, ECS, S3, RDS, VPC) with high availability and 99.9%+ uptime.
-   │    ├── Deployed microservices on Kubernetes, optimizing release cycles via rolling updates and health checks.
-   │    ├── Authored reusable Terraform modules and Ansible playbooks, cutting provisioning time by ~60%.
-   │    ├── Configured Prometheus, Grafana, and ELK Stack dashboards for proactive system and service observability.
-   │    └── Hardened Ubuntu and CentOS production servers, automating SSL certifications and performance tuning.
+   ├── 🟢 DevOps Engineer @ Fusion Cortex ───────────────────────── [May 2025 - Present]
+   │    ├── Designed secure, end-to-end CI/CD pipelines across AWS cloud environments
+   │    ├── Managed production EKS Kubernetes clusters keeping uptime above 99.9%
+   │    ├── Wrote modular Terraform scripts cutting resource provisioning time by 60%
+   │    └── Setup Prometheus/Grafana stacks to observe server and service metrics
    │
-   ├── 🔵 DevOps Intern @ Al-Nafi International College (Remote) ──────────── [SUCCESS: Mar 2024 - Mar 2025]
-   │    ├── Operated Jenkins and GitHub Actions pipelines to reduce manual deployment errors and expedite shipping.
-   │    ├── Automated repetitive IT operations and system setup configurations using Python scripting and Ansible.
-   │    ├── Managed Docker environments, enforcing container security, image hygiene, and local registry syncs.
-   │    └── Provisioned repeatable AWS resource environments (VPC, subnets, EC2, security groups) using Terraform.
+   ├── 🔵 DevOps Intern @ Al-Nafi College ───────────────────────── [Mar 2024 - Mar 2025]
+   │    ├── Created CI/CD automation templates with Jenkins and GitHub Actions
+   │    ├── Developed Docker compose orchestration setups for multi-tier apps
+   │    └── Automated system configurations using Ansible and Python scripting
    │
-   └── 🔵 Lab Engineer (ICT / DevOps) @ Riphah International University ─────── [SUCCESS: Mar 2024 - May 2025]
-        ├── Delivered hands-on lab instruction in Linux, Python, and DevOps practices to 100+ students per semester.
-        └── Designed structured lab manuals and automated assessment rubrics adopted across engineering cohorts.
+   └── 🔵 Lab Engineer @ Riphah University ───────────────────────── [Mar 2024 - May 2025]
+        └── Instructed 100+ students in Linux administration & Python automation
 ```
 
 ---
@@ -146,12 +142,12 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahbinAmin&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahbinAmin&background=0d1117&title=00f2fe&text=c9d1d9&fire=ff9900&ring=58a6ff&stroke=30363d" alt="GitHub Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahbinAmin&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=AbdullahbinAmin&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahbinAmin&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=30363d" alt="GitHub Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahbinAmin&layout=compact&theme=tokyonight" alt="GitHub Top Languages" />
 </p>
 
 ---
@@ -164,7 +160,7 @@
   *University of Engineering &amp; Technology, Lahore (Class of 2022)*
 - 🎖️ **Credentials**:
   - KodeKloud Engineer — Linux Level 1 (Earned)
-  - *Currently pursuing*: AWS Solutions Architect Associate • Certified Kubernetes Administrator (CKA) • HashiCorp Terraform Associate
+  - *Currently pursuing*: AWS Solutions Architect Associate • Certified Kubernetes Administrator (CKA) • HashiCorp Certified Terraform Associate
 
 ---
 

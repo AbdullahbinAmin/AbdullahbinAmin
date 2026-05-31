@@ -1,100 +1,187 @@
-<!-- Profile Banner -->
-![banner](https://github.com/AbdullahbinAmin/AbdullahbinAmin/blob/main/1725377001981.jpeg)
+<!-- Custom Animated Banner -->
+<p align="center">
+  <img src="banner.svg" alt="Abdullah bin Amin Banner" width="100%" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Abdullah bin Amin</h1>
-<h3 align="center">DevOps & Cloud Engineer | AWS | Jenkins | Docker | Kubernetes</h3>
+<h3 align="center">DevOps &amp; Cloud Engineer | Infrastructure &amp; Automation Architect</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/abdullahbinamin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/AbdullahbinAmin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
   <a href="mailto:abdullahbinaminmeo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
+  <br />
+  <img src="https://img.shields.io/badge/Location-Lahore,%20Pakistan-blue?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-I’m a **DevOps & Cloud Engineer** from Pakistan, passionate about automation, scalable deployments, and cloud-native infrastructure.  
-I specialize in **CI/CD pipelines, container orchestration, and Infrastructure as Code (IaC)**.  
-Currently mentoring students and building real-world DevOps environments to enhance learning through hands-on projects.
 
-💡 **Current Focus:**  
-Improving cloud automation workflows using **Jenkins, Docker, Ansible, Terraform, and AWS**.
+> DevOps &amp; Cloud Engineer with 1+ year of hands-on experience designing production-grade CI/CD pipelines, Kubernetes-based microservices platforms, and Infrastructure as Code (Terraform, Ansible) across AWS and Azure. Proven track record of cutting manual provisioning effort, accelerating release cycles, and building observability pipelines that enable proactive incident response. Comfortable owning infrastructure end-to-end — from repo to production.
 
----
-
-### 🧠 Tech Stack & Tools
-
-#### ☁️ Cloud & Platforms
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-</p>
-
-#### ⚙️ DevOps & CI/CD
-<p>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40"/>
-</p>
-
-#### 🧩 Programming & Scripting
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-</p>
-
-#### 🖥️ Monitoring & Visualization
-<p>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="40" height="40"/>
-</p>
-
-#### 🐧 Operating Systems
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" width="40" height="40"/>
-</p>
+- 💡 **Current Focus**: Improving cloud automation workflows using **Jenkins, Kubernetes, Ansible, Terraform, and AWS**.
+- ⚙️ **Key Philosophy**: *"If you have to do it more than once, automate it."*
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Core Skills &amp; Technologies
+
+| ☁️ Cloud &amp; Orchestration | ⚙️ CI/CD &amp; Infrastructure as Code |
+| :--- | :--- |
+| ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)<br />![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br />![Docker Swarm](https://img.shields.io/badge/Docker_Swarm-0db7ed?style=flat-square&logo=docker&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0F0F?style=flat-square&logo=ansible&logoColor=white)<br />![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-F3F4F6?style=flat-square&logo=argo&logoColor=orange)<br />![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+
+| 📊 Monitoring &amp; Logging | 🐍 Scripting &amp; Systems |
+| :--- | :--- |
+| ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)<br />![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)<br />![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)<br />![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)<br />![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white) |
+
+---
+
+### 🛠️ Professional Experience Pipeline
+
+```text
+[Pipeline] ── Stage: Experience
+   │
+   ├── 🟢 DevOps Engineer @ Fusion Cortex (Lahore, PK) ────────────────────── [ACTIVE: May 2025 - Present]
+   │    ├── Architected end-to-end CI/CD pipelines (GitHub Actions, GitLab CI/CD, Jenkins) across multiple environments.
+   │    ├── Managed and scaled AWS infrastructure (EC2, ECS, S3, RDS, VPC) with high availability and 99.9%+ uptime.
+   │    ├── Deployed microservices on Kubernetes, optimizing release cycles via rolling updates and health checks.
+   │    ├── Authored reusable Terraform modules and Ansible playbooks, cutting provisioning time by ~60%.
+   │    ├── Configured Prometheus, Grafana, and ELK Stack dashboards for proactive system and service observability.
+   │    └── Hardened Ubuntu and CentOS production servers, automating SSL certifications and performance tuning.
+   │
+   ├── 🔵 DevOps Intern @ Al-Nafi International College (Remote) ──────────── [SUCCESS: Mar 2024 - Mar 2025]
+   │    ├── Operated Jenkins and GitHub Actions pipelines to reduce manual deployment errors and expedite shipping.
+   │    ├── Automated repetitive IT operations and system setup configurations using Python scripting and Ansible.
+   │    ├── Managed Docker environments, enforcing container security, image hygiene, and local registry syncs.
+   │    └── Provisioned repeatable AWS resource environments (VPC, subnets, EC2, security groups) using Terraform.
+   │
+   └── 🔵 Lab Engineer (ICT / DevOps) @ Riphah International University ─────── [SUCCESS: Mar 2024 - May 2025]
+        ├── Delivered hands-on lab instruction in Linux, Python, and DevOps practices to 100+ students per semester.
+        └── Designed structured lab manuals and automated assessment rubrics adopted across engineering cohorts.
+```
+
+---
+
+### 📂 Featured Projects &amp; Blueprints
+
+#### ☸️ Kubernetes in One Shot
+> **Comprehensive Kubernetes Master Repository**
+<details>
+<summary><b>🔍 View Repository Blueprint &amp; Features</b></summary>
+
+- **Directory Layout &amp; Manifests**:
+  - `pods/` (Init Containers &amp; Sidecars)
+  - `nginx/` (Deployments, Services, Ingress, PVCs)
+  - `mysql/` (StatefulSets, Secrets, ConfigMaps)
+  - `apache/` (HPA/VPA autoscaling, RBAC permissions)
+  - `helm/` (Helm templates &amp; chart packaging)
+  - `monitoring/` (Prometheus &amp; Grafana dashboarding)
+  - `istio/` (VirtualService, Gateway traffic routing)
+- **Key Highlight**: Designed structured learning configurations for container orchestration, security controls, and local multi-node Kind cluster setups.
+- **Technologies**: Kubernetes, Docker, Helm, Istio, Prometheus, Grafana, Kind.
+</details>
+
+#### 📝 Full-Stack Containerized Notes App
+> **Django REST + React + Docker Compose + Nginx + SSL**
+<details>
+<summary><b>🔍 View Architecture Spec &amp; Container Orchestration</b></summary>
+
+- **Architecture**: A dynamic React user interface communicating with a secured Django REST backend API.
+- **Containerization**: Configured multi-container orchestration using Docker Compose with persistent MySQL volumes.
+- **Security &amp; Routing**: Hardened traffic using Nginx as a reverse proxy, configuring SSL redirection and custom hosts domain mapping.
+- **Technologies**: Python (Django REST), React, JavaScript, Docker, Docker Compose, Nginx, MySQL, SSL.
+</details>
+
+#### 💸 Expenses Tracker WebApp
+> **Spring Boot Financial App with Authentication &amp; Filters**
+<details>
+<summary><b>🔍 View Application Core &amp; Setup Details</b></summary>
+
+- **Core Capabilities**: Developed a robust financial tracker with custom user authentication, authorization, and data filters.
+- **Database Engine**: Built with Spring Data JPA and MySQL database handling relational records.
+- **Interface**: Designed a responsive UI utilizing Thymeleaf server-side templates styled with Bootstrap.
+- **Technologies**: Java, Spring Boot, Spring Security, Spring Data JPA, Thymeleaf, Bootstrap, MySQL.
+</details>
+
+#### 🔗 End-to-End GitOps CI/CD
+> **Azure Pipelines + AKS + Argo CD**
+<details>
+<summary><b>🔍 View GitOps Architecture Details</b></summary>
+
+- **Continuous Integration**: Setup automated build and push pipelines for a 3-tier microservices app (Python, .NET, Java) via Azure Pipelines.
+- **Continuous Delivery**: Integrated Argo CD to enforce GitOps practices, automatically deploying changes to Azure Kubernetes Service (AKS) upon git commits.
+- **Technologies**: Azure Pipelines, Azure Kubernetes Service (AKS), Argo CD, Git, Microservices.
+</details>
+
+#### ☁️ AWS ECS Flask WebApp
+> **Containerized Python Deployment on ECS**
+<details>
+<summary><b>🔍 View AWS Infrastructure &amp; Image Optimization</b></summary>
+
+- **Deployment**: Deployed a Python Flask application onto AWS Elastic Container Service (ECS) behind load balancers.
+- **Image Hardening**: Designed a secure, lightweight multi-stage Docker build utilizing distroless base images to minimize vulnerability attack vectors.
+- **Technologies**: AWS ECS, Application Load Balancers, Docker, Python (Flask).
+</details>
+
+#### ⚙️ Two-Tier Flask MySQL Stack
+> **Jenkins Pipeline &amp; EKS Deployments**
+<details>
+<summary><b>🔍 View CI/CD &amp; Kubernetes Deployment Manifests</b></summary>
+
+- **Automation**: Created declarative Jenkinsfiles automating build, test, and container packaging stages.
+- **Orchestration**: Wrote Kubernetes manifest templates for seamless deployment onto AWS EKS clusters.
+- **Task Runner**: Programmed custom Makefiles to automate local development shortcuts.
+- **Technologies**: Jenkins, AWS EKS, Docker, Python (Flask), MySQL, Makefile.
+</details>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahbinAmin&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahbinAmin&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AbdullahbinAmin&show_icons=true&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahbinAmin&background=0d1117&title=00f2fe&text=c9d1d9&fire=ff9900&ring=58a6ff&stroke=30363d" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahbinAmin&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahbinAmin&layout=compact&bg_color=0d1117&title_color=00f2fe&text_color=c9d1d9&border_color=30363d" alt="GitHub Top Languages" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 🎓 Education &amp; Credentials
+
+- 🎓 **BS AI — RQF Level 6 (CyberSecurity, DevOps, SysOps, AIOps)**  
+  *EduQual UK / Al-Nafi International College (Class of 2025)*
+- 🎓 **B.Sc. Electrical Engineering (Computer Science)**  
+  *University of Engineering &amp; Technology, Lahore (Class of 2022)*
+- 🎖️ **Credentials**:
+  - KodeKloud Engineer — Linux Level 1 (Earned)
+  - *Currently pursuing*: AWS Solutions Architect Associate • Certified Kubernetes Administrator (CKA) • HashiCorp Terraform Associate
+
+---
+
+### 🤝 Let's Collaborate!
+
 <p align="center">
   <a href="https://linkedin.com/in/abdullahbinamin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Connect" />
   </a>
   <a href="mailto:abdullahbinaminmeo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Message_Me-red?style=for-the-badge&logo=gmail" alt="Email Message" />
   </a>
   <a href="https://github.com/AbdullahbinAmin" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub Follow" />
   </a>
 </p>
 
----
-
-⭐ **“Building reliable systems through automation, innovation, and continuous learning.”**
+<p align="center">
+  ⚡ <i>"Building resilient, self-healing, and highly automated cloud architectures."</i>
+</p>

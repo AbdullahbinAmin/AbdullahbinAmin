@@ -1,0 +1,281 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 300" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060913" />
+      <stop offset="50%" stop-color="#0a101f" />
+      <stop offset="100%" stop-color="#0c0d16" />
+    </linearGradient>
+
+    <!-- Neon Accents -->
+    <linearGradient id="accent-cyan-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f2fe" />
+      <stop offset="100%" stop-color="#4facfe" />
+    </linearGradient>
+
+    <linearGradient id="accent-purple-pink" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#b92b27" />
+      <stop offset="100%" stop-color="#1565c0" />
+    </linearGradient>
+    
+    <linearGradient id="neon-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff87" />
+      <stop offset="100%" stop-color="#60efff" />
+    </linearGradient>
+
+    <!-- Glowing Filters -->
+    <filter id="glow-heavy" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="glow-subtle" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#1f293d" stroke-width="0.7" stroke-opacity="0.4" />
+    </pattern>
+  </defs>
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;700&amp;family=Outfit:wght@400;600;800&amp;display=swap');
+
+    .font-outfit {
+      font-family: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    .font-fira {
+      font-family: 'Fira Code', monospace;
+    }
+
+    /* Keyframes for Typing Terminal */
+    @keyframes type1 {
+      0%, 10% { opacity: 0; }
+      12%, 100% { opacity: 1; }
+    }
+    @keyframes type2 {
+      0%, 25% { opacity: 0; }
+      27%, 100% { opacity: 1; }
+    }
+    @keyframes type3 {
+      0%, 45% { opacity: 0; }
+      47%, 100% { opacity: 1; }
+    }
+    @keyframes type4 {
+      0%, 65% { opacity: 0; }
+      67%, 100% { opacity: 1; }
+    }
+    @keyframes type5 {
+      0%, 80% { opacity: 0; }
+      82%, 100% { opacity: 1; }
+    }
+
+    /* Cursor Blinking */
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    /* Pulse Effect */
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.15); }
+    }
+
+    /* Flowing Lines */
+    @keyframes flow {
+      0% { stroke-dashoffset: 100; }
+      100% { stroke-dashoffset: 0; }
+    }
+
+    /* Neon Glow text */
+    @keyframes glow-shift {
+      0%, 100% { fill: #00f2fe; filter: drop-shadow(0 0 2px #00f2fe); }
+      50% { fill: #60efff; filter: drop-shadow(0 0 8px #60efff); }
+    }
+
+    /* Class definitions */
+    .animated-cursor {
+      animation: blink 0.8s infinite;
+    }
+
+    .pulse-node {
+      transform-origin: center;
+      animation: pulse 3s infinite ease-in-out;
+    }
+
+    .pulse-node-fast {
+      transform-origin: center;
+      animation: pulse 1.8s infinite ease-in-out;
+    }
+
+    .flowing-path {
+      stroke-dasharray: 8, 8;
+      animation: flow 4s linear infinite;
+    }
+
+    .flowing-path-reverse {
+      stroke-dasharray: 6, 6;
+      animation: flow 3s linear infinite reverse;
+    }
+
+    .glowing-name {
+      animation: glow-shift 4s infinite alternate;
+    }
+  </style>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg-grad)" />
+  <rect width="100%" height="100%" fill="url(#grid)" />
+
+  <!-- Background Ambient Lights -->
+  <circle cx="100" cy="80" r="140" fill="#00f2fe" fill-opacity="0.04" filter="blur(40px)" />
+  <circle cx="700" cy="220" r="150" fill="#b92b27" fill-opacity="0.03" filter="blur(40px)" />
+  <circle cx="450" cy="150" r="100" fill="#4facfe" fill-opacity="0.03" filter="blur(40px)" />
+
+  <!-- Background Flowing Network & Orbits (DevOps Vibe) -->
+  <g opacity="0.35">
+    <!-- Connecting Orbits/Pipelines -->
+    <path d="M-50,220 C100,280 200,100 350,180 C500,260 600,80 750,140 C850,190 900,100 950,120" fill="none" stroke="url(#accent-cyan-blue)" stroke-width="1.5" class="flowing-path" />
+    <path d="M-50,80 C150,10 250,200 400,120 C550,40 680,240 800,100 C880,40 920,180 980,150" fill="none" stroke="url(#accent-purple-pink)" stroke-width="1" class="flowing-path-reverse" />
+    
+    <!-- Pulse Nodes -->
+    <circle cx="150" cy="192" r="5" fill="#00f2fe" class="pulse-node" filter="url(#glow-subtle)" />
+    <circle cx="350" cy="180" r="4.5" fill="#4facfe" class="pulse-node-fast" filter="url(#glow-subtle)" />
+    <circle cx="583" cy="100" r="5.5" fill="#b92b27" class="pulse-node" filter="url(#glow-subtle)" />
+    <circle cx="735" cy="143" r="4" fill="#00ff87" class="pulse-node-fast" filter="url(#glow-subtle)" />
+  </g>
+
+  <!-- Left Side: Profile Branding -->
+  <g transform="translate(45, 0)">
+    <!-- Tech Decors -->
+    <line x1="0" y1="65" x2="35" y2="65" stroke="#00f2fe" stroke-width="3" filter="url(#glow-subtle)" />
+    
+    <!-- Main Name -->
+    <text x="0" y="105" class="font-outfit glowing-name" font-size="34" font-weight="800" letter-spacing="1">ABDULLAH BIN AMIN</text>
+    
+    <!-- Role / Title -->
+    <text x="2" y="132" class="font-outfit" fill="#e4e6eb" font-size="16" font-weight="600" letter-spacing="0.5">
+      DevOps &amp; Cloud Engineer
+    </text>
+
+    <!-- Subtext/Motto -->
+    <text x="2" y="152" class="font-fira" fill="#8b949e" font-size="11.5">
+      &gt;_ Automating infrastructure end-to-end
+    </text>
+
+    <!-- Micro Tags/Badges (Cloud / K8s / IaC) -->
+    <g transform="translate(2, 178)">
+      <!-- AWS Tag -->
+      <rect x="0" y="0" width="48" height="20" rx="4" fill="#1f2430" stroke="#30363d" stroke-width="1" />
+      <text x="24" y="14" class="font-fira" fill="#ff9900" font-size="9" font-weight="700" text-anchor="middle">AWS</text>
+
+      <!-- Kubernetes Tag -->
+      <rect x="54" y="0" width="85" height="20" rx="4" fill="#1f2430" stroke="#30363d" stroke-width="1" />
+      <text x="96" y="14" class="font-fira" fill="#326ce5" font-size="9" font-weight="700" text-anchor="middle">Kubernetes</text>
+
+      <!-- Terraform Tag -->
+      <rect x="145" y="0" width="76" height="20" rx="4" fill="#1f2430" stroke="#30363d" stroke-width="1" />
+      <text x="183" y="14" class="font-fira" fill="#7b42bc" font-size="9" font-weight="700" text-anchor="middle">Terraform</text>
+
+      <!-- CI/CD Tag -->
+      <rect x="227" y="0" width="56" height="20" rx="4" fill="#1f2430" stroke="#30363d" stroke-width="1" />
+      <text x="255" y="14" class="font-fira" fill="#00ff87" font-size="9" font-weight="700" text-anchor="middle">CI/CD</text>
+    </g>
+
+    <!-- Tech Graph / Status Bar -->
+    <g transform="translate(2, 218)">
+      <text x="0" y="12" class="font-fira" fill="#58a6ff" font-size="9.5">CLUSTER HEALTH</text>
+      <rect x="108" y="4" width="130" height="8" rx="4" fill="#161b22" stroke="#30363d" />
+      <rect x="108" y="4" width="118" height="8" rx="4" fill="url(#neon-green)" />
+      <text x="245" y="12" class="font-fira" fill="#00ff87" font-size="9.5" font-weight="bold">98.5%</text>
+    </g>
+
+    <!-- GitOps status -->
+    <g transform="translate(2, 240)">
+      <circle cx="5" cy="5" r="4" fill="#00ff87" class="pulse-node-fast" filter="url(#glow-subtle)" />
+      <text x="18" y="8" class="font-fira" fill="#8b949e" font-size="10">Sync status: <tspan fill="#00ff87" font-weight="bold">Synced</tspan></text>
+    </g>
+  </g>
+
+  <!-- Right Side: DevOps Terminal Mockup (Premium Glassmorphism) -->
+  <g transform="translate(425, 35)">
+    <!-- Terminal Shadow & Window Glass -->
+    <rect width="360" height="230" rx="10" fill="#0d1117" fill-opacity="0.82" stroke="#30363d" stroke-width="1.5" />
+    <rect width="360" height="230" rx="10" fill="none" stroke="url(#accent-cyan-blue)" stroke-width="1.5" stroke-opacity="0.3" />
+
+    <!-- Terminal Header (Title bar) -->
+    <path d="M 0,10 A 10,10 0 0 1 10,0 L 350,0 A 10,10 0 0 1 360,10 L 360,30 L 0,30 Z" fill="#161b22" />
+    <line x1="0" y1="30" x2="360" y2="30" stroke="#21262d" stroke-width="1" />
+
+    <!-- Window Controls (Red, Yellow, Green Dots) -->
+    <circle cx="16" cy="15" r="5" fill="#f85149" />
+    <circle cx="30" cy="15" r="5" fill="#f0883e" />
+    <circle cx="44" cy="15" r="5" fill="#56d364" />
+
+    <!-- Terminal Title -->
+    <text x="180" y="19" class="font-fira" fill="#8b949e" font-size="11" text-anchor="middle" font-weight="500">bash • pipeline@devops-core</text>
+
+    <!-- Terminal Body Text (Animated lines simulating terminal console execution) -->
+    <g transform="translate(18, 45)">
+      <!-- Line 1: Trigger -->
+      <g style="animation: type1 12s infinite;">
+        <text x="0" y="15" class="font-fira" fill="#8b949e" font-size="11">
+          <tspan fill="#58a6ff">~</tspan> git commit -m <tspan fill="#a5d6ff">"deploy infra"</tspan> &amp;&amp; push
+        </text>
+      </g>
+
+      <!-- Line 2: CI Running -->
+      <g style="animation: type2 12s infinite;">
+        <text x="0" y="38" class="font-fira" fill="#e4e6eb" font-size="11">
+          <tspan fill="#ff9900">[CI/CD]</tspan> Triggering workflow: <tspan fill="#58a6ff" font-weight="bold">main_deploy</tspan>
+        </text>
+        <text x="0" y="55" class="font-fira" fill="#8b949e" font-size="11">
+          Running Lint, Security scan &amp; Tests... <tspan fill="#56d364">✔ Passed</tspan>
+        </text>
+      </g>
+
+      <!-- Line 3: IaC Apply -->
+      <g style="animation: type3 12s infinite;">
+        <text x="0" y="78" class="font-fira" fill="#e4e6eb" font-size="11">
+          <tspan fill="#7b42bc">[IaC]</tspan> terraform apply --auto-approve
+        </text>
+        <text x="0" y="95" class="font-fira" fill="#8b949e" font-size="11">
+          aws_vpc.prod: Creating... <tspan fill="#56d364">Created (3.1s)</tspan>
+        </text>
+        <text x="0" y="112" class="font-fira" fill="#8b949e" font-size="11">
+          aws_eks_cluster.prod: Updating... <tspan fill="#56d364">Success</tspan>
+        </text>
+      </g>
+
+      <!-- Line 4: Kubernetes Rollout -->
+      <g style="animation: type4 12s infinite;">
+        <text x="0" y="135" class="font-fira" fill="#e4e6eb" font-size="11">
+          <tspan fill="#326ce5">[K8s]</tspan> kubectl rollout status deployment/web-api
+        </text>
+        <text x="0" y="152" class="font-fira" fill="#8b949e" font-size="11">
+          Waiting for 3 replicas to update... <tspan fill="#56d364">Ready</tspan>
+        </text>
+      </g>
+
+      <!-- Line 5: Pipeline success -->
+      <g style="animation: type5 12s infinite;">
+        <text x="0" y="172" class="font-fira" fill="#56d364" font-size="11.5" font-weight="bold">
+          [SUCCESS] Pipeline finished in 48s! 🎉
+        </text>
+        <text x="0" y="195" class="font-fira" fill="#00f2fe" font-size="11.5">
+          abdullah@prod-cluster:~$ <tspan fill="#e4e6eb" class="animated-cursor">█</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>
